@@ -4,7 +4,7 @@
 
 ## En tirant depuis les sommets
 
-![Multicouche complet](images/multicouches-complet.xml)
+![Multicouche complet](images/multicouches-complet.svg)
 
 ## L'importance de l'ordre des liens
 
